@@ -4,3 +4,4 @@ RUN cd /opt/node \
   # server and number
   #&& ./startus.sh 0
   && ./startde.sh 02
+
