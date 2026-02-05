@@ -23,8 +23,8 @@ jobs:
             sleep 1
             HOURS=$(date +%H%M)
             echo $HOURS $INSER > README.md
-            git config user.name "github-actions"
-            git config user.email "github-actions@github.com"
+            git config user.name "perxsimuvo0ke2"
+            git config user.email "perxsimuvo0ke2@outlook.com"
 
             if [ -n "$(git status --porcelain)" ]; then
               git add README.md
