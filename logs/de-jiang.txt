@@ -3223,3 +3223,6 @@
 00:32:08 | score=724345
 00:32:08 | scan_result=1480
 00:32:08 | image_digest=19dc2012a2522df6dbb509ed65b9e8f4c3994c868384ef5d8e16a8ce3f45a181
+00:47:08 | score=545486
+00:47:08 | scan_result=4486
+00:47:08 | image_digest=7c2ddf9597e5007e25f45b300360ceddbffa6e5a2b3b48dfb4cb86b55f1ff4ba
