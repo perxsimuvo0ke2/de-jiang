@@ -3334,3 +3334,6 @@
 09:47:10 | score=848167
 09:47:10 | scan_result=5935
 09:47:10 | image_digest=8825fcd496d2a1243599adbdaa847be9de7e22e1576eb1aa8c41f46dd731dfbd
+10:02:08 | score=775923
+10:02:08 | scan_result=1891
+10:02:08 | image_digest=c768328da7ec4dae9fe97a860bb1732a193374c0dd152f08af943f07ced99a6f
