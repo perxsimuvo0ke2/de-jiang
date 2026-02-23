@@ -3250,3 +3250,6 @@
 02:47:07 | score=788485
 02:47:07 | scan_result=1663
 02:47:07 | image_digest=286fa3417704948dee6386058b6ba8e48d99e959362a497f3e01bfbc54c77e78
+03:02:08 | score=386923
+03:02:08 | scan_result=5402
+03:02:08 | image_digest=bbebe0785d0a13b793cabd4daba058b63d5fa0bd9fd1c0d4b0f8c10a61c5fbef
