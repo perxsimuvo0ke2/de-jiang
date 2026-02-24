@@ -3538,3 +3538,6 @@
 02:47:07 | score=181452
 02:47:07 | scan_result=9101
 02:47:07 | image_digest=4a0a70a32c5697d79f40d60965e2ce3371128edcc796992cfeebf9e47fe0c13e
+03:02:08 | score=802364
+03:02:08 | scan_result=5910
+03:02:08 | image_digest=9d861a51a5ee148a1dbbe6653eeba7eaefdfaebf6603c170176e4ad9b70dd678
