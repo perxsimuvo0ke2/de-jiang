@@ -4570,3 +4570,6 @@
 17:02:09 | score=640369
 17:02:09 | scan_result=4434
 17:02:09 | image_digest=8c6abca7fb76e7eafd42ebcd28b1f6502e3980d8fb299f04044f1efe3df9e841
+17:17:20 | score=505100
+17:17:20 | scan_result=9579
+17:17:20 | image_digest=69818f0e987d32c658a49afd1715dfc83bdc24ee5b3df70ce51118f71ac959cd
