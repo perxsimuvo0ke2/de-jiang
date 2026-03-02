@@ -5380,3 +5380,6 @@
 12:32:10 | score=789700
 12:32:10 | scan_result=9603
 12:32:10 | image_digest=bab7d5de91fe5e675addd4b54bb7344cea2402c4fae65257f2acbdb2c4adf1b2
+12:47:10 | score=880330
+12:47:10 | scan_result=6029
+12:47:10 | image_digest=b461ed26d2c7d2f96570ea7d071236e3a2dc1c8f2a015376f8f2e6f38d1f8e02
