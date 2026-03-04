@@ -5818,3 +5818,6 @@
 01:02:08 | score=107026
 01:02:08 | scan_result=4768
 01:02:08 | image_digest=b6a249aafadad72eb69fbcce1b00d6581dc8cf1d546f06668c3a6fca5edc933b
+01:17:09 | score=747538
+01:17:09 | scan_result=4636
+01:17:09 | image_digest=84cce829e32bc81730ee1571239fb7ebfea296afd0595458d4ff4152d650f95a
